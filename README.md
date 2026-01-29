@@ -4,8 +4,9 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Chrome](https://img.shields.io/badge/Chrome-Manifest%20V3-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-orange.svg)
-
 一个用于 Gemini (gemini.google.com) 的 Chrome 浏览器扩展，在侧边栏显示对话导航目录，方便快速跳转到历史提问。
+
+![image-20260129202736444](img/image-20260129202736444.png)
 
 </div>
 
@@ -48,6 +49,8 @@ Gemini_Toc/
 
 ### 方法一：从源码安装（推荐）
 
+**将本项目git clone到本地，目录名称仍然为Gemini_Toc，保持与上述项目结构一致。**
+
 1. **打开 Chrome 扩展管理页面**
    - 在 Chrome 地址栏输入：`chrome://extensions/`
    - 或者：菜单 → 更多工具 → 扩展程序
@@ -85,6 +88,7 @@ Gemini_Toc/
 3. **查看导航**
    - 侧边栏会自动显示所有提问列表
    - 每个提问都有编号和预览文本
+   - 第一次使用建议项目的刷新插件/浏览器页面的刷新
 
 4. **快速跳转**
    - 点击任意提问项
