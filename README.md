@@ -1,10 +1,11 @@
 # Gemini Toc - Gemini 导航目录 Chrome 扩展
 
-<div align="center">
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
-![Chrome](https://img.shields.io/badge/Chrome-Manifest%20V3-green.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
+![Chrome](https://img.shields.io/badge/Chrome-Manifest%20V3-green.svg) 
 ![License](https://img.shields.io/badge/license-MIT-orange.svg)
+
 一个用于 Gemini (gemini.google.com) 的 Chrome 浏览器扩展，在侧边栏显示对话导航目录，方便快速跳转到历史提问。
+
 
 ![image-20260129202736444](img/image-20260129202736444.png)
 
